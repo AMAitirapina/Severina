@@ -1,1 +1,1 @@
-# Severina
+# Severina Bot
